@@ -4,6 +4,6 @@
 	echo $date; 	
 ?>
 <br/>
-Votre boutique sur internet...<br/>
-Pour commander, commencez par sélectionner vos produits...
+Besoin de médicaments ?<br/>
+Venez vous approvisionner directement en ligne !
 </div>
